@@ -27,8 +27,14 @@ Os projetos foram simulados no Wokwi
 ### 🔹 Pratica 1
 https://wokwi.com/projects/429962619798200321
 
+<img width="350" height="280" alt="image" src="https://github.com/user-attachments/assets/aed080b5-105d-4b3c-ad30-2b767ed729cc" />
+
+
 ### 🔹 Pratica 2
 https://wokwi.com/projects/430409315843493889
+
+<img width="350" height="280" alt="image" src="https://github.com/user-attachments/assets/054fa0b8-fb5a-45e0-af6d-a63692ca238b" />
+
 
 ---
 
