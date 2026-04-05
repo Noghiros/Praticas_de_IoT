@@ -18,7 +18,15 @@ Este projeto realiza a leitura de temperatura e umidade com o sensor **DHT22** e
 
 - **Broker:** broker.mqttdashboard.com  
 - **Tópico:** Stefano-Calheiros-Stringhini  
-- **Client ID:** teste.utfpr.edu.br  
+- **Client ID:** teste.utfpr.edu.br
+
+## 🔌 Conexões
+
+| DHT22 | ESP32 |
+|------|--------|
+| VCC  | 3V3    |
+| GND  | GND    |
+| DATA | Pino 15|
 
 ---
 
