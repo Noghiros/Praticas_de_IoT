@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "author": "Anonymous maker",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-esp32-devkit-c-v4", "id": "esp", "top": 0, "left": -4.76, "attrs": {} },
+    {
+      "type": "wokwi-dht22",
+      "id": "dht1",
+      "top": -45,
+      "left": 171.9,
+      "rotate": 90,
+      "attrs": { "temperature": "-19.9", "humidity": "42" }
+    }
+  ],
+  "connections": [
+    [ "esp:TX", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX", "$serialMonitor:TX", "", [] ],
+    [ "dht1:VCC", "esp:3V3", "red", [ "v-6.9", "h-149.25" ] ],
+    [ "dht1:GND", "esp:GND.2", "black", [ "h0" ] ],
+    [ "dht1:SDA", "esp:15", "blue", [ "h-28.8", "v163.3" ] ]
+  ],
+  "dependencies": {}
+}
