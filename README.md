@@ -8,7 +8,7 @@ Projetos desenvolvidos para a disciplina de Internet das Coisas (IoT), utilizand
 - Leitura de temperatura e umidade com DHT22
 - Exibição via Serial Monitor
 
-📁 `Arduino-DHT22`
+📁 `Arduino-DHT22/README.md`
 
 ---
 
@@ -17,18 +17,19 @@ Projetos desenvolvidos para a disciplina de Internet das Coisas (IoT), utilizand
 - Leitura do sensor DHT22
 - Envio de dados para broker MQTT
 
-📁 `MQTT-DHT22`
+📁 `MQTT-DHT22/README.md`
 
 ---
 
 ## 🧪 Simulação
 
-Os projetos foram simulados no [Wokwi]
+Os projetos foram simulados no Wokwi
 ### 🔹 Pratica 1
 https://wokwi.com/projects/429962619798200321
 
 ### 🔹 Pratica 2
 https://wokwi.com/projects/430409315843493889
+
 ---
 
 ## 🛠️ Tecnologias
